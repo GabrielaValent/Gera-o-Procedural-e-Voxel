@@ -8,8 +8,8 @@ Este projeto visa desenvolver uma ferramenta em Unity utilizando um sistema de v
 - **Reset e Edição**: Opção de apagar e recomeçar uma nova estrutura.
 - **Configuração de Voxels**: Customização de propriedades dos blocos, como tipo e cor.
 
+<img src="https://github.com/user-attachments/assets/268fd731-426d-41a1-b4c4-574fb352a906" alt="Cenário gerado" width="30%"/>
+<img src="https://github.com/user-attachments/assets/528bb165-bad5-4122-be62-b04ccf3a80b8" alt="Funcionamento básico" width="30%"/>
+<img src="https://github.com/user-attachments/assets/8744b6ed-bb9a-443f-b82c-687d87b3c247" alt="Visão geral" width="30%"/>
 
-![1](https://github.com/user-attachments/assets/268fd731-426d-41a1-b4c4-574fb352a906)
-![4](https://github.com/user-attachments/assets/528bb165-bad5-4122-be62-b04ccf3a80b8)
-![3](https://github.com/user-attachments/assets/8744b6ed-bb9a-443f-b82c-687d87b3c247)
 
